@@ -22,7 +22,7 @@ Security
 
 Repository
 
-Create a GitHub repo under your account (for example: `Godwillr23/leaveapplication`) and push the code.
+Create a GitHub repo under your account and push the code.
 # Leave Application (monorepo)
 
 This project contains backend and frontend folders:
